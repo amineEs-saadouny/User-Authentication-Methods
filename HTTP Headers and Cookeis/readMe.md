@@ -1,0 +1,3 @@
+# The use of HTTP headers
+
+we can use http headers to set cookies in the browser using "Set-Cookie" which anable us to authenticate users...
